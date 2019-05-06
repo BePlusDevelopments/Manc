@@ -1,2 +1,1 @@
-# Manc
-Data collector and server analytic tool
+# curso-introduccion-php
